@@ -1,5 +1,5 @@
 {
-  "name": "citas",
+  "name": "presupuesto",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "uuid": "^8.2.0"
+    "shortid": "^2.2.15"
   },
   "scripts": {
     "start": "react-scripts start",
